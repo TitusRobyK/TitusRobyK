@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Titus, working as a Senior Software Engineer in a small design firm based out of India. 
 
-I have been working in Backend Web application (Java & Spring boot micro-service application) for awhile and now slowly transitioning || graduating myself to be UI/UX || Full Stack Developer..
+I have been working in Backend Web application (Java & Spring boot micro-service application) for awhile and now slowly transitioning || graduating myself to be an UI/UX || a Full Stack Developer..
 
 Lately i have been working in Node.js,Java & CMS frameworks like Contentful and Adobe Experience Manager.
 
