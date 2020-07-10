@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Nerds & Geeks 👋
 
 <!--
 **TitusRobyK/TitusRobyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Titus, working as a Senior Software Engineer in a small design firm. 
+
+I have been working in Backend Web application (Java & Spring boot micro-service application) for awhile and now slowly transitioning || graduating myself to be UI/UX Developer..
+
+Lately i have been working in Node.js & CMS frameworks like Contentful and Adobe Experience Manager
