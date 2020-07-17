@@ -40,16 +40,16 @@ Lately i have been working in Node.js,Java & CMS frameworks like Contentful and 
         src="https://konpa.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="26"
         height="26" /></p>
 <p align="center">
-    <a href="https://twitter.com/titusrobyk" target="blank"><img align="center"
+    <a href="https://twitter.com/titusrobyk" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="titusrobyk" height="26"
             width="26" /></a>
-    <a href="https://linkedin.com/in/titusrobyk" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/titusrobyk" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="titusrobyk" height="26"
             width="26" /></a>
-    <a href="https://stackoverflow.com/8180066/titus-roby-k" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/8180066/titus-roby-k" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8180066/titus-roby-k"
             height="26" width="26" /></a>
-    <a href="https://instagram.com/titus_roby.k" target="blank"><img align="center"
+    <a href="https://instagram.com/titus_roby.k" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="titus_roby.k" height="26"
             width="26" /></a>
 </p>
