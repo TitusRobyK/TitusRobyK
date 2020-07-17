@@ -26,3 +26,30 @@ Lately i have been working in Node.js,Java & CMS frameworks like Contentful and 
 - 👨🏻‍💻 or you could Follow me in [Twitter](https://twitter.com/TitusRobyK)
 - ⚡ Fun facts => I love playing 🎹 , listening to endless Music 🎧 & also i like knowing or exploring the intricacies on how a certain tech or a web application flow is working on which i would spent endless hours on hacking or reverse engineering the particular stuff. One such example of that is [ THIS ](http://follow-the-white-rabbit.netlify.app/)
 
+<p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+        alt="angularjs" width="20" height="20" /> <img
+        src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20"
+        height="20" /> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+        alt="javascript" width="20" height="20" /> <img
+        src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"
+        width="20" height="20" /> <img
+        src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
+        width="20" height="20" /> <img
+        src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
+        width="20" height="20" /> <img
+        src="https://konpa.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="20"
+        height="20" /></p>
+<p align="center">
+    <a href="https://twitter.com/titusrobyk" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="titusrobyk" height="20"
+            width="20" /></a>
+    <a href="https://linkedin.com/in/titusrobyk" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="titusrobyk" height="20"
+            width="20" /></a>
+    <a href="https://stackoverflow.com/8180066/titus-roby-k" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8180066/titus-roby-k"
+            height="20" width="20" /></a>
+    <a href="https://instagram.com/titus_roby.k" target="blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="titus_roby.k" height="20"
+            width="20" /></a>
+</p>
