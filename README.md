@@ -35,20 +35,21 @@ Lately i have been working in Node.js,Java & CMS frameworks like Contentful and 
         <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="26" height="26" />
         <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" height="26" /> 
         <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/125637031/original/dd2e18bdf6b41b12fdb53436339e9b9a85e37970/do-plsql-job-for-you.png" alt="oracle"         width="26" height="26" />
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="26" height="26" alt="Git" />
         <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="26" height="26" alt="Netlify" />
         <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="26" height="26" alt="Bitbucket" />
 </p>
 <p align="center">
-    <a href="https://twitter.com/titusrobyk" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="titusrobyk" height="26"
-            width="26" /></a>
-    <a href="https://linkedin.com/in/titusrobyk" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="titusrobyk" height="26"
-            width="26" /></a>
-    <a href="https://stackoverflow.com/users/8180066/titus-roby-k" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8180066/titus-roby-k"
-            height="26" width="26" /></a>
-    <a href="https://instagram.com/titus_roby.k" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="titus_roby.k" height="26"
-            width="26" /></a>
+    <a href="https://twitter.com/titusrobyk" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="titusrobyk" height="26" width="26" />
+    </a>
+    <a href="https://linkedin.com/in/titusrobyk" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="titusrobyk" height="26" width="26" />
+   </a>
+    <a href="https://stackoverflow.com/users/8180066/titus-roby-k" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8180066/titus-roby-k" height="26" width="26" />
+    </a>
+    <a href="https://instagram.com/titus_roby.k" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="titus_roby.k" height="26" width="26" />
+    </a>
 </p>
