@@ -24,7 +24,7 @@ Lately i have been working in Node.js,Java & CMS frameworks like Contentful and 
 - ✍ View my [LinkedIn](https://www.linkedin.com/in/titusrobyk/) Profile
 - 📫 You can reach me [here](mailto:titusrobyk@gmail.com)
 - 👨🏻‍💻 or you could Follow me in [Twitter](https://twitter.com/TitusRobyK)
-- ⚡ Fun facts => I love playing 🎹 , listening to endless Music 🎧 & also i like knowing or exploring the intricacies on how a certain tech or a web application flow is working on which i would spent endless hours on hacking or reverse engineering the particular stuff. One such example of that is [ THIS ](http://follow-the-white-rabbit.netlify.app/)
+- ⚡ Fun facts => I love playing 🎹 , listening to endless Music 🎧 & also i like exploring the intricacies on how a certain tech or a web application flow is working on which i would spent endless hours on hacking or learning the particular stuff. One such example of that is [ THIS ](http://follow-the-white-rabbit.netlify.app/)
 
 <p align="center">
         <img src="https://vignette.wikia.nocookie.net/adobe/images/e/e2/Adobe_Experience_Manager_icon.svg" alt="Adobe Experience Manager" width="26" height="26" />
