@@ -20,7 +20,6 @@ I have been working in Backend Web application (Java & Spring boot micro-service
 
 Lately i have been working in Node.js,Java & CMS frameworks like Contentful and Adobe Experience Manager.
 
-- 💬 Ask me about anything and everything! 
 - ✍ View my [LinkedIn](https://www.linkedin.com/in/titusrobyk/) Profile
 - 📫 You can reach me [here](mailto:titusrobyk@gmail.com)
 - 👨🏻‍💻 or you could Follow me in [Twitter](https://twitter.com/TitusRobyK)
